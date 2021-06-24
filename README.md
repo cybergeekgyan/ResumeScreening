@@ -1,12 +1,11 @@
 ## ResumeScreening
 
 ### Contents
-
-### Why do we need Resume Screening?
-### What is Resume Screening?
-### Resume Screening using Machine Learning
-### Code
-### Conclusion
+- Why do we need Resume Screening?
+- What is Resume Screening?
+- Resume Screening using Machine Learning
+- Code
+- Conclusion
 
 ## 1. Why do we need Resume Screening?
 
